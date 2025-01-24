@@ -1,0 +1,8 @@
+root = "db"
+data_dir = "data"
+users_dir = "users"
+
+[http]
+hostname = "demo.service"
+listen_address = "127.0.0.1"
+port = 8000
